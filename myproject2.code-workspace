@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "myproject2",
+			"path": "."
+		}
+	],
+	"settings": {
+		"vscode-corda.isCordaProject": false
+	}
+}
